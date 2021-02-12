@@ -1,5 +1,7 @@
 # InformationApplicationSystem
-Project By:
+Group Members:
 Ahmet Alper Dönmez
+
 Aysu Sözen
+
 Ceyda Alpay
